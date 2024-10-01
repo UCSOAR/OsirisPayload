@@ -1,3 +1,6 @@
+# Ignore .pre-commit-config.yaml
+.pre-commit-config.yaml
+
 # Object files
 *.o
 *.ko
